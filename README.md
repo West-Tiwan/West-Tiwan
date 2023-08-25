@@ -15,22 +15,22 @@
 ## skills:
 
 <div style="display: flex; flex-wrap:wrap; width: 100%;"> 
-    <div style="display: flex; justify-content: space-evenly; width: 100%;">
+    <div style="display: flex; justify-content: space-around; width: 100%;">
     <img src="./imgAssets/C_Logo.png" height="100px">
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/python.png" height="100px">
     </div>
-    <div style="display: flex; justify-content: space-evenly; width: 100%;">
+    <div style="display: flex; justify-content: space-around; width: 100%;">
     <img src="./imgAssets/js.png" height="100px">
     <img src="./imgAssets/tailwind1.png" height="100px">
     <img src="./imgAssets/62a76492bd73a4af5c5d4fb9.png" height="100px">
     </div>
-    <div style="display: flex; justify-content: space-evenly; width: 100%;">
+    <div style="display: flex; justify-content: space-around; width: 100%;">
     <img src="./imgAssets/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail-removebg-preview.png" height="100px">
     <img src="./imgAssets/png-clipart-debian-stretch-conky-theme-debian-logo-thumbnail-removebg-preview.png" height="100px">
     <img src="./imgAssets/kali.png" height="100px">
     </div>
-    <div style="display: flex; justify-content: space-evenly; width: 100%;">
+    <div style="display: flex; justify-content: space-around; width: 100%;">
     <img src="./imgAssets/css-removebg-preview.png" height="100px">
     <img src="./imgAssets/html.png" height="100px">
     </div>
