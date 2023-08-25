@@ -13,6 +13,7 @@
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/python.png" height="100px">
     <img src="./imgAssets/js.png" height="100px">
+    <img src="./imgAssets/tailwind1.png" height="100px">
     <img src="./imgAssets/62a76492bd73a4af5c5d4fb9.png" height="100px">
     </div>
     <div>
