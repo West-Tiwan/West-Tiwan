@@ -1,10 +1,3 @@
-<head>
-    <style>
-        img{
-            margin:20px;
-        }
-    </style>
-</head>
 # Hi there!
 
 - 👋 I'm @West-Tiwan
