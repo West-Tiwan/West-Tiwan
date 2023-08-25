@@ -17,8 +17,8 @@
     </div>
     <div>
     <img src="./imgAssets/css-removebg-preview.png" height="100px">
-    <img src="./imgAssets/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail.png" height="100px">
-    <img src="./imgAssets/png-transparent-debian-arch-linux-computer-icons-desktop-linux-spiral-logo-magenta.png" height="100px">
+    <img src="./imgAssets/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail-removebg-preview.png" height="100px">
+    <img src="./imgAssets/png-clipart-debian-stretch-conky-theme-debian-logo-thumbnail-removebg-preview.png" height="100px">
     <img src="./imgAssets/kali.png" height="100px">
     <img src="./imgAssets/html.png" height="100px">
     </div>
