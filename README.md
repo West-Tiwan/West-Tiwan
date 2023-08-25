@@ -7,17 +7,21 @@
 
 ## skills:
 
-<div style="display: grid; grid-template-column: repeat(1fr,5); gap:30px"> -->
+<div style="display: flex; flex-wrap:wrap; width: 50%;"> 
+    <div>
     <img src="./imgAssets/C_Logo.png" height="100px">
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/python.png" height="100px">
     <img src="./imgAssets/js.png" height="100px">
     <img src="./imgAssets/62a76492bd73a4af5c5d4fb9.png" height="100px">
+    </div>
+    <div>
     <img src="./imgAssets/css-removebg-preview.png" height="100px">
     <img src="./imgAssets/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail.png" height="100px">
     <img src="./imgAssets/png-transparent-debian-arch-linux-computer-icons-desktop-linux-spiral-logo-magenta.png" height="100px">
     <img src="./imgAssets/kali.png" height="100px">
     <img src="./imgAssets/html.png" height="100px">
+    </div>
 </div>
 
 ## Github Badges
