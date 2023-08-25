@@ -7,8 +7,8 @@
 
 ## skills:
 
-<div style="display: flex; flex-wrap:wrap; width: 50%;"> 
-    <div>
+<div style="display: flex; flex-wrap:wrap; width: 100%;"> 
+    <div style="display: flex; flex-wrap:wrap; justify-content: space-evenly">
     <img src="./imgAssets/C_Logo.png" height="100px">
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/python.png" height="100px">
