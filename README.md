@@ -7,7 +7,7 @@
 
 ## skills:
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; width: 100%; justify-content: center;"> -->
+<div style="display: grid; grid-template-column: repeat(1fr,5); gap:30px"> -->
     <img src="./imgAssets/C_Logo.png" height="100px">
     <img src="./imgAssets/c++.png" height="100px">
     <img src="./imgAssets/python.png" height="100px">
