@@ -36,6 +36,3 @@
 </div>
 <br>
 <br><p>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=West-Tiwan&show_icons=true&locale=en&show=reviews&theme=radical" alt="West-Tiwan"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=West-Tiwan&theme=radical" alt="West-Tiwan"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=West-Tiwan&theme=radical" alt="West-Tiwan" /></p>
