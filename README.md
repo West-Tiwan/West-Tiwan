@@ -54,6 +54,6 @@
 
 ## Stats
 
-[![Mohit’s github stats](https://github-readme-stats.vercel.app/api?username=West-Tiwan&theme=ambient_gradient&rank_icon=percentile)](https://github.com/West-Tiwan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Tiwan&theme=ambient_gradient&layout=compact)](https://github.com/West-Tiwan)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=West-Tiwan&theme=ambient_gradient" alt="West-Tiwan" />
+[![Mohit’s github stats](https://github-readme-stats.vercel.app/api?username=West-Tiwan&theme=blue-green&rank_icon=percentile)](https://github.com/West-Tiwan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Tiwan&theme=blue-green&layout=compact)](https://github.com/West-Tiwan)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=West-Tiwan&theme=blue-green" alt="West-Tiwan" />
