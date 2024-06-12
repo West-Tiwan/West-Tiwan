@@ -56,4 +56,4 @@
 
 [![Mohit’s github stats](https://github-readme-stats.vercel.app/api?username=West-Tiwan)](https://github.com/West-Tiwan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=West-Tiwan&layout=compact)](https://github.com/West-Tiwan)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=West-Tiwan&theme=radical" alt="West-Tiwan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=West-Tiwan&theme=ambient_gradient" alt="West-Tiwan" />
