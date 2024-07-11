@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Java + Spring Boot + Hibernate
 
 <br><br>
-## Technologies
+## Framewors/Technologies
 
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.JS">
