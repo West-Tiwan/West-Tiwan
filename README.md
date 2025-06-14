@@ -1,9 +1,10 @@
 # Hi there!
 
-- 👋 I'm Mohit Singh
-- 👀 I’m interested in Servers, coding, Networking(in computers) and a Job😢
-- 📫 Contact me on xyzmohit.singh@gmail.com or <a href="https://www.linkedin.com/in/west-tiwan/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Mohit Singh | LinkedIn" width="20px"/></a>
-- 🌱 I’m currently learning (native) Android development with jetpack compose
+- I'm Mohit Singh
+- I’m interested in Servers, coding, Networking(in computers) and a Job😢
+- currently working at <a href="https://3fat.in/">3FAT</a>
+- Contact me on xyzmohit.singh@gmail.com or <a href="https://www.linkedin.com/in/west-tiwan/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Mohit Singh | LinkedIn" width="20px"/></a>
+- I’m currently learning (native) Android development with jetpack compose
 
 <br><br>
 ## Framewors/Technologies
@@ -22,7 +23,6 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
 <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="PUG">
-<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.JS">
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
 </div>
