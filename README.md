@@ -5,6 +5,7 @@
 - currently working at <a href="https://www.sensehq.com/">SenseHQ</a>
 - Contact me on mohit@west-tiwan.com or <a href="https://www.linkedin.com/in/west-tiwan/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" alt="Mohit Singh | LinkedIn" width="20px"/></a>
 - I’m currently learning Distributed Systems
+- Since my personal profile looks dead, here's my work profile - https://github.com/Mohit-sensehq
 
 <br><br>
 ## Stats
